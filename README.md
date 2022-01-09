@@ -1,2 +1,2 @@
 # case_interview
-ケース問題校正用
+ケース問題校正用repo
